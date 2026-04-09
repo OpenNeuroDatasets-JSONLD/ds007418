@@ -1,6 +1,6 @@
 DESCRIPTION
 
-Here we share the unprocessed multi-echo GRE data obtained at both 10.5 and 7 T alongside T1w MP2RAGE collected at 7 T, all reported in the following paper: Mesoscale whole-brain T2*-weighted and associated quantitative MRI in humans at 10.5 T. Jiaen Liu, Peter van Gelderen, Jacco A. de Zwart, Jeff H. Duyn, Yujia Huang, Shuxian Qu, Andrea Grant, Edward Auerbach, Matt Waks, Russell Lagore, Lance Delabarre, Alireza Sadeghi-Tarakameh, Yigitcan Eryaman, Gregor Adriany, Kamil Ugurbil and Xiaoping Wu. MRM 2026.
+Here we share the unprocessed multi-echo GRE data obtained at both 10.5 and 7 T alongside T1w MP2RAGE collected at 7 T, all reported in the following paper: Mesoscale whole-brain T2*-weighted and associated quantitative MRI in humans at 10.5 T. Jiaen Liu, Peter van Gelderen, Jacco A. de Zwart, Jeff H. Duyn, Yujia Huang, Shuxian Qu, Andrea Grant, Edward Auerbach, Matt Waks, Russell Lagore, Lance Delabarre, Alireza Sadeghi-Tarakameh, Yigitcan Eryaman, Gregor Adriany, Kamil Ugurbil and Xiaoping Wu. Magnetic Resonance in Medicine (2026): 1–9, https://doi.org/10.1002/mrm.70366.
 
 Below we provide a brief description of the data. A detailed description of the data including acquisition, reconstruction, processing and analysis can be found in the paper cited above.
 
